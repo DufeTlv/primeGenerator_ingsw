@@ -10,5 +10,6 @@ public class App
     {
         MyMath math = new MyMath();
         System.out.println(math.primeNumbersGenerator(20));
+        
     }
 }
